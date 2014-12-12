@@ -60,6 +60,10 @@ If you complete the required material and need a break from JavaScript, here are
 
 This course explores program design in pure Ruby. It assumes a broad understanding of the language and will expose you to some new methods, so be sure to look up what something does if you don't know it.
 
+#### [Bastard's Book on Ruby](http://ruby.bastardsbook.com/chapters/web-scraping/)
+
+Try building a web scraper with Ruby! This is one of the first Ruby resoures I ever went through, so it's pretty old, but should still be relevant today. You can see some other cool chapters in the [Table of Contents](http://ruby.bastardsbook.com/toc/).
+
 ### Misc
 
 [How to Learn Anything (or The 10,000 Hour Lie)](https://www.youtube.com/watch?v=5MgBikgcWnY)
