@@ -1,6 +1,6 @@
 # g4: January, JavaScript & Juxtaposition
 
-After the break you will begin programming client-side, single page applications with Ember.js. You will learn to master frontend technologies like JavaScript, HTML5, Ajax, & Sass. You will learn JavaScript *the language* & Ember.js, a client-side MVC, to help you build ambitious web applications on top of a hand rolled Ruby on Rails API.
+After the break you will begin programming client-side, single page applications with Ember.js. You will learn to master frontend technologies like JavaScript, Ajax, CORS, HTML5, & Sass. You will learn JavaScript *the language* & Ember.js, a client-side MVC, to help you build ambitious web applications on top of a hand rolled Ruby on Rails API.
 
 ## Why Ember
 
@@ -24,29 +24,41 @@ Over the break, I've assigned required course work for you to complete. There wi
 
 Incase you complete all of the required work and are still hungry to learn more, I've also included some recommended material to help you get ahead.
 
+### Pro Tips (all pro tips are optional)
+
+All of these are optional, but I would check them out before you begin working on anything else.
+
+[Speed Reading](http://www.spreeder.com/)
+I use this for almost everything on the web. The topic is worth researching for analogue material as well.
+
+[Screen Reader](http://www.chromevox.com/)
+If you prefer hearing something instead of – or in addition to – reading it, try this out. I set the voice to Google English UK Male and map the Vox prefix to the ALT key on my Mac. _Warning_: This will drive your roommates crazy.
+
+[Learn Anything](https://www.youtube.com/watch?v=JC82Il2cjqA)
+This will get you right in the feels.
+
+[How to Learn Anything (or The 10,000 Hour Lie)](https://www.youtube.com/watch?v=5MgBikgcWnY)
+This is like the last one, but with actual metrics and a funny song.
+
 ### JavaScript
 
 #### [NodeSchool: JavaScripting](https://github.com/sethvincent/javascripting) (required)
 Level: Beginner  
 Estimate Time: 1 - 2 hours
 
-This walks you through the very basics of JavaScirpt. We will help you set up Node.js and NPM before the break.
+This walks you through the very basics of JavaScirpt. We will help you set this up with Node.js and NPM before the break.
 
 #### [Try jQuery](http://try.jquery.com/) (required)
 Level: Beginner  
 Estimate Time: 3 - 4 hours
 
-This will introduce you to JavaScript as it relates to interacting with HTML in the browser. You can use the linked title or jump straight to [the first video](http://try.jquery.com/levels/1/sections/2) here.
+This will introduce you to JavaScript as it relates to interacting with HTML in the browser. You can use the linked title or jump straight to [the first video](http://try.jquery.com/levels/1/sections/2) here. Extra credit for anyone that finds a playlist of all CodeSchool songs. Aren't they fantastic?
 
 ### [Eloquent JavaScript](http://eloquentjavascript.net/) (required)
 Level: Beginner  
 Estimate Time: 3 - 4 hours
 
 This is a free, wonderful book that simply explains JavaScript in greater depth. Try to complete all of the exercises on your own, but we will review different solutions to each after the break.
-
-#### Explore the console
-
-You can start playing with JavaScript immediately by opening up Chrome Dev Tools (CMND + Option + J). This is the console where you can write and play with JavaScript directly. This is also where 'console.log()' sends values from JavaScript programs.
 
 #### [Discover Dev Tools](http://discover-devtools.codeschool.com/)
 Chapters 1, 2, and 3 will go a long way towards becoming an efficient JavaScript developer. The other chapters are not needed until much, much later, so I would only go through the first three.
@@ -64,14 +76,27 @@ This short article introduces some of the very basics in JavaScript. It will hel
 
 If you complete the required material and need a break from JavaScript, here are some cool Ruby resources.
 
+#### [Try Ruby](http://tryruby.org/levels/1/challenges/0)
+Level: Beginner  
+Estimate Time: 1 - 2 hours
+
+This covers the very basics of the language. You should be familiar with most of the content here, but it will act as a nice refreshed before diving into more of the language.
+
+#### [Why's Poignant Guide](http://mislav.uniqpath.com/poignant-guide/book/chapter-1.html)
+Level: Beginner  
+Estimate Time: 2 - 4 hours
+
+Despite being an older resource, this book and its author still influence how I think about Ruby and the Ruby community today. If you'd like a fun tour of the language, then try this bit of poignancy on for size.
+
+#### [Bastard's Book on Ruby](http://ruby.bastardsbook.com/chapters/web-crawling/)
+Level: Intermediate  
+Estimate Time: 2 - 4 hours
+
+Try building a web scraper with Ruby! This is one of the first Ruby resources I ever went through, so it's pretty old, but should still be relevant today. You can see some other cool chapters in the [Table of Contents](http://ruby.bastardsbook.com/toc/).
+
 #### [Design Patterns](https://www.youtube.com/watch?v=1dIS8awh5oU&list=PL-c5QGKgN2C-DPNGN4lkN3BxT2Ea2gU2V&index=5)
 
+Level: Advanced  
+Estimate Time: 4 - 5 hours
+
 This course explores program design in pure Ruby. It assumes a broad understanding of the language and will expose you to some new methods, so be sure to look up what something does if you don't know it.
-
-#### [Bastard's Book on Ruby](http://ruby.bastardsbook.com/chapters/web-scraping/)
-
-Try building a web scraper with Ruby! This is one of the first Ruby resoures I ever went through, so it's pretty old, but should still be relevant today. You can see some other cool chapters in the [Table of Contents](http://ruby.bastardsbook.com/toc/).
-
-### Misc
-
-[How to Learn Anything (or The 10,000 Hour Lie)](https://www.youtube.com/watch?v=5MgBikgcWnY)
