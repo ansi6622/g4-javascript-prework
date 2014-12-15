@@ -26,31 +26,39 @@ Incase you complete all of the required work and are still hungry to learn more,
 
 ### JavaScript
 
-#### [JavaScript for Cats](http://jsforcats.com/) (required)
-
+#### [NodeSchool: JavaScripting](https://github.com/sethvincent/javascripting) (required)
 Level: Beginner  
-Estimate Time: 1 hour
+Estimate Time: 1 - 2 hours
 
-This short article introduces some of the very basics in JavaScript. It will help ease you into JavaScript's data types and unique syntax.
+This walks you through the very basics of JavaScirpt. We will help you set up Node.js and NPM before the break.
 
 #### [Try jQuery](http://try.jquery.com/) (required)
+Level: Beginner  
+Estimate Time: 3 - 4 hours
+
 This will introduce you to JavaScript as it relates to interacting with HTML in the browser. You can use the linked title or jump straight to [the first video](http://try.jquery.com/levels/1/sections/2) here.
 
-Level: Beginner
+### [Eloquent JavaScript](http://eloquentjavascript.net/) (required)
+Level: Beginner  
 Estimate Time: 3 - 4 hours
+
+This is a free, wonderful book that simply explains JavaScript in greater depth.
 
 #### Explore the console
 
 You can start playing with JavaScript immediately by opening up Chrome Dev Tools (CMND + Option + J). This is the console where you can write and play with JavaScript directly. This is also where 'console.log()' sends values from JavaScript programs.
 
-### [Eloquent JavaScript](http://eloquentjavascript.net/)
-
-This is a free, wonderful book that simply explains JavaScript in greater depth.
-
 #### [Discover Dev Tools](http://discover-devtools.codeschool.com/)
 Chapters 1, 2, and 3 will go a long way towards becoming an efficient JavaScript developer. The other chapters are not needed until much, much later, so I would only go through the first three.
 
 We will go over all of this again in class, but feel free to get a head start.
+
+#### [JavaScript for Cats](http://jsforcats.com/)
+
+Level: Beginner  
+Estimate Time: 1 hour
+
+This short article introduces some of the very basics in JavaScript. It will help ease you into JavaScript's data types and unique syntax.
 
 ### Ruby
 
