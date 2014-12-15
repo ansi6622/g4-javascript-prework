@@ -42,7 +42,7 @@ This will introduce you to JavaScript as it relates to interacting with HTML in 
 Level: Beginner  
 Estimate Time: 3 - 4 hours
 
-This is a free, wonderful book that simply explains JavaScript in greater depth.
+This is a free, wonderful book that simply explains JavaScript in greater depth. Try to complete all of the exercises on your own, but we will review different solutions to each after the break.
 
 #### Explore the console
 
