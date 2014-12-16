@@ -55,6 +55,7 @@ Estimate Time: 3 - 4 hours
 This will introduce you to JavaScript as it relates to interacting with HTML in the browser. You can use the linked title or jump straight to [the first video](http://try.jquery.com/levels/1/sections/2) here. Extra credit for anyone that finds a playlist of all CodeSchool songs. Aren't they fantastic?
 
 ### [Eloquent JavaScript](http://eloquentjavascript.net/) (required)
+_Chapters: 1 - 6_
 Level: Beginner  
 Estimate Time: 3 - 4 hours
 
