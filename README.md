@@ -46,7 +46,7 @@ This is like the last one, but with actual metrics and a funny song.
 Level: Beginner  
 Estimate Time: 1 - 2 hours
 
-This walks you through the very basics of JavaScirpt. We will help you set this up with Node.js and NPM before the break.
+This walks you through the very basics of JavaScript. We will help you set this up with Node.js and NPM before the break.
 
 #### [Try jQuery](http://try.jquery.com/) (required)
 Level: Beginner  
